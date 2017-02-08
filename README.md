@@ -3,7 +3,6 @@ Acionamento de cargas por meio de um aplicativo mobile e protocolo Bluetooth.
 
 #Objetivo
 Documento descritivo do projeto intitulado "Acionamento de cargas por meio de um aplicativo _mobile_ e protocolo _Bluetooth_", apresentado à disciplina 2ELE036 - Microprocessadores. Turma 1011 do curso de Engenharia Elétrica da Universidade Estadual de Londrina.
-Docente: Prof. Dr. Marcelo Carvalho 
 
 Londrina, 2017.
 
@@ -15,6 +14,8 @@ Londrina, 2017.
 * Ewerton Massaaki Saito Loures
 * Germano Gabriel Gobbo
 * Gustavo Ribas Roesler
+
+#Instruções:
 
 Serão apresentadas a seguir de maneira simplificada as informações básicas necessárias para o uso do aplicativo, a fim de se realizar os acionamentos de cargas.
 
